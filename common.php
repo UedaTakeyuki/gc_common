@@ -20,7 +20,7 @@ function cmn_check_lang(){
     switch($lang){
       case "en": // U.K. English
       case "ja": // Japanese
-      case "zh": // Chinese
+//      case "zh": // Chinese
         break;
       default:
         $lang = "en";
