@@ -1,0 +1,32 @@
+{
+  "name": "gc_common",
+  "version": "0.0.0",
+  "description": "common staffs for gc series.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UedaTakeyuki/gc_common"
+  },
+  "keywords": [
+    "backup",
+    "RaspberryPi",
+    "OS",
+    "image"
+  ],
+  "author": "Takeyuki UEDA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UedaTakeyuki/gc_common/issues"
+  },
+  "devDependencies": {
+    "jquery": "^3.3.1"
+  },
+  "dependencies": {
+    "jquery-migrate": "^3.0.1",
+    "jquery-mobile": "^1.4.1",
+    "bootstrap": "^3.3.6"
+  }
+}
